@@ -3,7 +3,7 @@
 # Exit immediately if a command exits with a non-zero status
 set -e
 
-# Install dependencies
+# Install dependencies for app
 echo "Installing dependencies..."
 npm install
 
