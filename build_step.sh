@@ -7,6 +7,6 @@ set -e
 echo "Installing dependencies..."
 npm install
 
-# Build the app
+# Build step the app
 echo "Building the app..."
 npm run build
